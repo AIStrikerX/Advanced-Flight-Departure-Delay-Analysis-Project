@@ -26,4 +26,4 @@ This project focuses on predicting flight departure delays using advanced data a
 ### Setup Instructions
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/Advanced-Flight-Departure-Delay-Analysis-Project.git
+   git clone https://github.com/Striker6674/Advanced-Flight-Departure-Delay-Analysis-Project.git
